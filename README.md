@@ -1,2 +1,2 @@
-# c21
-my library
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
